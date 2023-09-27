@@ -1,1 +1,1 @@
-!(./Sample.png)
+![Sample](./Sample.png)
